@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programare\\CSharp\\ProjectOne\\ProjectOneApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectOneApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectOneApp.props",
+      "PackagePath": "build\\ProjectOneApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectOneApp.props",
+      "PackagePath": "buildMultiTargeting\\ProjectOneApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectOneApp.props",
+      "PackagePath": "buildTransitive\\ProjectOneApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

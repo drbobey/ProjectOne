@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eWDbtJQG64iXGvFX2zOP5JtsVte2qhT7vzkUvKyKXjI=",
+  "Source": "ProjectOneApp",
+  "BasePath": "_content/ProjectOneApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectOneApp\\wwwroot",
+      "Source": "ProjectOneApp",
+      "ContentRoot": "D:\\Programare\\CSharp\\ProjectOne\\ProjectOneApp\\wwwroot\\",
+      "BasePath": "_content/ProjectOneApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programare\\CSharp\\ProjectOne\\ProjectOneApp\\wwwroot\\favicon.ico",
+      "SourceId": "ProjectOneApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programare\\CSharp\\ProjectOne\\ProjectOneApp\\wwwroot\\",
+      "BasePath": "_content/ProjectOneApp",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

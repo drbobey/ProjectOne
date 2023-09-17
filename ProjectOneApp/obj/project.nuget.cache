@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0weV+VZ10NX+KavxytZCFmWF3Nr5BJZka0Ok6iLHYLTy5KC0KxziYhswYQUBsD0eCIw3vcNpFUcKIER+LoiuRg==",
+  "success": true,
+  "projectFilePath": "D:\\Programare\\CSharp\\ProjectOne\\ProjectOneApp\\ProjectOneApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dragos\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.20\\microsoft.aspnetcore.spaproxy.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
